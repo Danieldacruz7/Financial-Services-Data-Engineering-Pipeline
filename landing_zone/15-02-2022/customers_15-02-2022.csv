@@ -1,0 +1,56 @@
+customerid,birthdate,bank_account_type,bank_name,employment_status,education_level
+1011,1970-07-19 00:00:00,Savings,Skye Bank,Permanent,
+1005,1978-12-11 00:00:00,Savings,Capitec Bank,Permanent,
+1063,1988-02-28 00:00:00,Savings,ABSA Bank,Permanent,
+1082,1990-06-23 00:00:00,Savings,ABSA Bank,Unemployed,
+1046,1981-07-22 00:00:00,Savings,Capitec Bank,Permanent,
+1071,1979-06-04 00:00:00,Other,ABSA Bank,Permanent,Graduate
+1006,1990-07-21 00:00:00,Savings,Access Bank,Permanent,
+1005,1978-12-11 00:00:00,Savings,Capitec Bank,Permanent,
+1039,1979-10-10 00:00:00,Other,FNB,Unemployed,Graduate
+1033,1977-07-29 00:00:00,Current,Capitec Bank,Permanent,
+1095,1995-02-12 00:00:00,Savings,Access Bank,Permanent,
+1083,1987-09-13 00:00:00,Savings,Capitec Bank,Permanent,Post-Graduate
+1049,1979-07-01 00:00:00,Savings,FNB,Permanent,Secondary
+1085,1973-02-26 00:00:00,Savings,Capitec Bank,,
+1020,1990-07-03 00:00:00,Other,ABSA Bank,Self-Employed,Graduate
+1048,1988-06-26 00:00:00,Savings,FNB,Permanent,
+1087,1979-03-25 00:00:00,Other,Capitec Bank,Permanent,Graduate
+1003,1991-07-19 00:00:00,Savings,Capitec Bank,Permanent,
+1064,1973-11-23 00:00:00,Savings,Capitec Bank,Permanent,
+1042,1983-01-19 00:00:00,Other,ABSA Bank,Self-Employed,Post-Graduate
+1070,1978-04-16 00:00:00,Other,Access Bank,Permanent,Post-Graduate
+1066,1987-06-26 00:00:00,Other,Capitec Bank,Permanent,
+1008,1992-11-17 00:00:00,Savings,Standard Bank,Unemployed,
+1075,1975-06-25 00:00:00,Savings,Access Bank,Permanent,
+1043,1973-01-20 00:00:00,Savings,Skye Bank,Permanent,
+1052,1989-02-28 00:00:00,Other,Capitec Bank,Self-Employed,
+1070,1978-04-16 00:00:00,Other,Access Bank,Permanent,Post-Graduate
+1024,1985-09-26 00:00:00,Savings,ABSA Bank,,
+1079,1986-11-02 00:00:00,Other,Standard Bank,Self-Employed,
+1096,1992-11-27 00:00:00,Savings,Capitec Bank,Permanent,
+1053,1989-10-14 00:00:00,Savings,ABSA Bank,Permanent,
+1012,1994-06-03 00:00:00,Other,Capitec Bank,Student,Secondary
+1078,1984-12-03 00:00:00,Savings,FNB,Permanent,
+1035,1992-10-28 00:00:00,Savings,Capitec Bank,Permanent,
+1004,1982-11-22 00:00:00,Savings,FNB,Permanent,Post-Graduate
+1007,1986-09-09 00:00:00,Savings,Capitec Bank,Permanent,
+1044,1991-11-25 00:00:00,Savings,Access Bank,Unemployed,
+1097,1985-09-07 00:00:00,Savings,Capitec Bank,Unemployed,Secondary
+1093,1995-06-29 00:00:00,Other,ABSA Bank,Self-Employed,
+1099,1987-02-20 00:00:00,Current,Capitec Bank,Permanent,
+1045,1988-10-03 00:00:00,Other,Access Bank,Permanent,Graduate
+1009,1965-02-23 00:00:00,Savings,Standard Bank,Permanent,
+1057,1983-08-19 00:00:00,Savings,Capitec Bank,,
+1059,1990-03-28 00:00:00,Savings,Standard Bank,Permanent,
+1013,1988-11-25 00:00:00,Savings,ABSA Bank,,Graduate
+1041,1985-04-03 00:00:00,Savings,Capitec Bank,Permanent,
+1038,1987-05-25 00:00:00,Savings,Capitec Bank,Permanent,
+1031,1976-07-22 00:00:00,Savings,Capitec Bank,Permanent,
+1016,1988-04-22 00:00:00,Savings,Capitec Bank,Permanent,
+1042,1983-01-19 00:00:00,Other,ABSA Bank,Self-Employed,Post-Graduate
+1091,1986-05-08 00:00:00,Savings,Capitec Bank,Permanent,
+1062,1985-12-14 00:00:00,Savings,Capitec Bank,Permanent,
+1018,1983-05-08 00:00:00,Savings,FNB,Permanent,Graduate
+1065,1987-12-23 00:00:00,Savings,FNB,,
+1023,1985-10-23 00:00:00,Savings,Capitec Bank,Permanent,
